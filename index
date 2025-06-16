@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Darshan D | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Darshan D</h1>
+    <p>Student | Developer | Curious Learner</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a 2nd-year BTech CSE student passionate about AI/ML, web development, and building cool things with code. Always curious, always learning.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Chat App</strong> – A terminal-based real-time messaging app using Python socket programming.</li>
+      <li><strong>File Organizer</strong> – A script that organizes messy folders automatically by file type.</li>
+      <li><strong>Portfolio Website</strong> – The very site you’re on right now!</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: your.email@example.com</p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Darshan D</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
